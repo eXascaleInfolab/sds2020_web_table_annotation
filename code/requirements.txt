@@ -1,0 +1,15 @@
+python-decouple
+python-Levenshtein
+gensim
+pandas
+collections-extended
+multiprocessing
+pathlib
+glob3
+numpy
+html
+pickle
+requests
+regex
+scikit-learn
+python-dateutil
